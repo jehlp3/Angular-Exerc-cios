@@ -1,0 +1,8 @@
+P criar o componente app.module.ts
+ng new nome-do-arquivo --no-standalone
+
+Criação de componente via prompt
+ng generate component nome-componente
+
+Criação de pipes personalizados
+ng generate pipe nomePipe
