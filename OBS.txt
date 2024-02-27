@@ -1,3 +1,5 @@
+ng serve p iniciar
+
 P criar o componente app.module.ts
 ng new nome-do-arquivo --no-standalone
 
